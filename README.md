@@ -9,3 +9,8 @@
 <div>
 <img src="https://github.com/user-attachments/assets/1c6b5c3a-2b61-4d52-84b7-02d1dcf9b4d7">
 </div>
+
+## 👨‍💻 Aula 3 - Resultado
+<div>
+<img src="https://github.com/user-attachments/assets/78b793f9-efe0-402f-b22b-fc50213d013d">
+</div>
