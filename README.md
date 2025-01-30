@@ -14,3 +14,10 @@
 <div>
 <img src="https://github.com/user-attachments/assets/78b793f9-efe0-402f-b22b-fc50213d013d">
 </div>
+
+## 💡 Aula 4 - Resultado
+<div>
+<img src="https://github.com/user-attachments/assets/13af3b63-223f-40e2-872b-f595e467f256">
+</div>
+
+
